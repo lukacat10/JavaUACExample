@@ -1,4 +1,4 @@
-package com.gmail.lukacat100.crackedpremium;
+package com.gmail.lukacat100.javauac;
 
 import java.io.File;
 import java.io.IOException;
